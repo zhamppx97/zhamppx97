@@ -1,7 +1,5 @@
 <img src="https://github.com/zhamppx97/zhamppx97/blob/master/zhamppx.jpg" width="100%" height="300">
-### Hi there 👋
 
-<!--
 **zhamppx97/zhamppx97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
