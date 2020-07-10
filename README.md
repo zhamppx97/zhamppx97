@@ -1,4 +1,4 @@
-<img src="https://github.com/zhamppx97/zhamppx97/blob/master/zhamppx.jpg">
+<img src="https://github.com/zhamppx97/zhamppx97/blob/master/zhamppx.jpg" width="100%" height="300">
 ### Hi there 👋
 
 <!--
