@@ -1,7 +1,7 @@
+<img src="https://github.com/zhamppx97/zhamppx97/blob/master/pikachu.gif" width="10%" height="60"><img src="https://github.com/zhamppx97/zhamppx97/blob/master/charizard.gif" width="30%" height="160">
+
 [![Linkedin Badge](https://img.shields.io/badge/Woraphon%20Kh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/woraphon-kh/)](https://www.linkedin.com/in/woraphon-kh/)
 [![Gmail Badge](https://img.shields.io/badge/zhamppx.wrp@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zhamppx.wrp@gmail.com)](mailto:zhamppx.wrp@gmail.com)
-<img src="https://github.com/zhamppx97/zhamppx97/blob/master/pikachu.gif" width="10%" height="60">
-<img src="https://github.com/zhamppx97/zhamppx97/blob/master/charizard.gif" width="40%" height="170">
 
 <img src="https://img.shields.io/github/followers/zhamppx97.svg?label=GitHub&style=social" alt="GitHub"></a>![ViewCount](https://views.whatilearened.today/views/github/zhamppx97/zhamppx97.svg)
 
