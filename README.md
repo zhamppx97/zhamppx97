@@ -1,4 +1,5 @@
 <!--<img src="https://github.com/zhamppx97/zhamppx97/blob/master/pikachu_pokeball.gif" width="76" height="76"><img src="https://github.com/zhamppx97/zhamppx97/blob/master/charizard.gif" width="245" height="145"><img src="https://github.com/zhamppx97/zhamppx97/blob/master/bulbasaur.gif" width="45" height="45"><img src="https://github.com/zhamppx97/zhamppx97/blob/master/squirtle.gif" width="45" height="45"><img src="https://github.com/zhamppx97/zhamppx97/blob/master/psyduck.gif" width="50" height="50"><img src="https://github.com/zhamppx97/zhamppx97/blob/master/eevee.gif" width="50" height="50"><img src="https://github.com/zhamppx97/zhamppx97/blob/master/jolteon.gif" width="50" height="65"><img src="https://github.com/zhamppx97/zhamppx97/blob/master/mewtwo_mew.gif" width="210" height="110">-->
+<img src="https://github.com/zhamppx97/zhamppx97/blob/master/pikachu_pokeball.gif" width="116" height="116">
 
 # Hello World! 👋
 
