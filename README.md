@@ -16,4 +16,5 @@
 ![Ripple Badge](https://img.shields.io/badge/Donate%20XRP%3A-rpXTzCuXtjiPDFysxq8uNmtZBe9Xo97JbW%20|%20Tag:1081353934-blue?logo=Ripple&logoColor=white)<br>
 ![Litecoin Badge](https://img.shields.io/badge/Donate%20LTC%3A-LbwzkgURtnnzi7KjqgxYRF9tjubsdaAMex-lightgrey?logo=Litecoin&logoColor=white)<br>
 ![Bitcoin Badge](https://img.shields.io/badge/Donate%20BCH%3A-bitcoincash:qrsjkp2q3zydgyfca6vq5ufmjk33ln9p7smqc3jt2s-green?logo=Bitcoin&logoColor=white)<br>
-![Stellar Badge](https://img.shields.io/badge/Donate%20XLM%3A-GBS2RTBGEWBT7DJOH7CTA4PDVLIPONCPCIILJPPESWSHDIV4NFZJHRP3%20|%20Tag:1000506379-black?logo=Stellar&logoColor=white)
+![Stellar Badge](https://img.shields.io/badge/Donate%20XLM%3A-GBS2RTBGEWBT7DJOH7CTA4PDVLIPONCPCIILJPPESWSHDIV4NFZJHRP3%20|%20Tag:1000506379-black?logo=Stellar&logoColor=white)<br>![Cardano Badge](https://img.shields.io/badge/Donate%20ADA%3A-DdzFFzCqrhsfnRtLmspv6D5fKvY5DeshgEiNxRmC2Zk3qGSgGRDpQq22XCWjQ664UZLErbgbhYf7xXqkZH1i4J2zNGX1XPsvn25w8Tjk-lightblue?logo=Cardano&logoColor=white)
+
