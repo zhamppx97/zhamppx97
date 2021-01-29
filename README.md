@@ -18,3 +18,4 @@
 ![Bitcoin Badge](https://img.shields.io/badge/Donate%20BCH%3A-bitcoincash:qrsjkp2q3zydgyfca6vq5ufmjk33ln9p7smqc3jt2s-green?logo=Bitcoin&logoColor=white)<br>
 ![Stellar Badge](https://img.shields.io/badge/Donate%20XLM%3A-GBS2RTBGEWBT7DJOH7CTA4PDVLIPONCPCIILJPPESWSHDIV4NFZJHRP3%20|%20Tag:1000506379-black?logo=Stellar&logoColor=white)<br>![Cardano Badge](https://img.shields.io/badge/Donate%20ADA%3A-DdzFFzCqrhsfnRtLmspv6D5fKvY5DeshgEiNxRmC2Zk3qGSgGRDpQq22XCWjQ664UZLErbgbhYf7xXqkZH1i4J2zNGX1XPsvn25w8Tjk-lightblue?logo=Cardano&logoColor=white)
 
+<a href="https://www.buymeacoffee.com/zhamppx97" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="25%"></a>
