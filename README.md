@@ -6,7 +6,6 @@
 [![StackOverflow Badge](https://img.shields.io/badge/zhamppx97-orange?logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/8897723/zhamppx97)](https://stackoverflow.com/users/8897723/zhamppx97)
 [![Linkedin Badge](https://img.shields.io/badge/Woraphon%20Kh-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/woraphon-kh/)](https://www.linkedin.com/in/woraphon-kh/)
 [![Gmail Badge](https://img.shields.io/badge/zhamppx.wrp@gmail.com-c14438?logo=Gmail&logoColor=white&link=mailto:zhamppx.wrp@gmail.com)](mailto:zhamppx.wrp@gmail.com)
-
 <img src="https://img.shields.io/github/followers/zhamppx97.svg?label=GitHub&style=social" alt="GitHub"></a>![ViewCount](https://views.whatilearened.today/views/github/zhamppx97/zhamppx97.svg)
 
 <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=zhamppx97&theme=calm&show_icons=true" /> <img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhamppx97&theme=calm&show_icons=true&layout=compact" />
