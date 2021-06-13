@@ -21,10 +21,10 @@
 <details>
   <summary><b>Donate</b></summary>
   <div>
-     ![Bitcoin Badge](https://img.shields.io/badge/BTC%3A-3EXfj12XdkpWKSkQgcGi16MwPsQtikjT6Y-orange?logo=Bitcoin&logoColor=white)<br>
-     ![Ethereum Badge](https://img.shields.io/badge/ETH%3A-0xf51d7e03e22178b5f861ae0c4597765119dd1bac-9cf?logo=Ethereum&logoColor=white)<br>
-     ![Litecoin Badge](https://img.shields.io/badge/LTC%3A-LbwzkgURtnnzi7KjqgxYRF9tjubsdaAMex-lightgrey?logo=Litecoin&logoColor=white)<br>
-     ![Bitcoin Cash Badge](https://img.shields.io/badge/BCH%3A-bitcoincash:qrsjkp2q3zydgyfca6vq5ufmjk33ln9p7smqc3jt2s-green?logo=Bitcoin%20Cash&logoColor=green)<br>
+     Bitcoin #BTC 3EXfj12XdkpWKSkQgcGi16MwPsQtikjT6Y <br>
+     Ethereum #ETH 0xf51d7e03e22178b5f861ae0c4597765119dd1bac <br>
+     Litecoin #LTC LbwzkgURtnnzi7KjqgxYRF9tjubsdaAMex <br>
+     Bitcoin Cash #BCH bitcoincash:qrsjkp2q3zydgyfca6vq5ufmjk33ln9p7smqc3jt2s <br>
   </div>
 </details>
 
