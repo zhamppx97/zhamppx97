@@ -33,6 +33,17 @@
   </div>
 </details>
 
+```json
+{
+   "me": {
+          "name": "Woraphon Khuarprakopkit",
+          "hobby": "Coding, Reading",
+          "football": "AC Milan ⚽🔴⚫",
+          "music": "EDM",
+   }
+}
+```
+
 ```c#
 using HumanBodySystems;
 namespace Me
