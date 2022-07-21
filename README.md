@@ -30,8 +30,6 @@
     
 ![Bitcoin](https://img.shields.io/badge/3EXfj12XdkpWKSkQgcGi16MwPsQtikjT6Y-black?logo=bitcoin&logoColor=white)<br>
 ![Ethereum](https://img.shields.io/badge/0xf51d7e03e22178b5f861ae0c4597765119dd1bac-black?logo=ethereum&logoColor=lightblue)<br>
-![Litecoin](https://img.shields.io/badge/LbwzkgURtnnzi7KjqgxYRF9tjubsdaAMex-black?logo=litecoin&logoColor=silver)<br>
-![Bitcoin Cash](https://img.shields.io/badge/bitcoincash:qrsjkp2q3zydgyfca6vq5ufmjk33ln9p7smqc3jt2s-black?logo=bitcoin-cash&logoColor=green)<br>
     
   </div>
 </details>
