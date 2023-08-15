@@ -24,16 +24,6 @@
   </div>
 </details>
 
-<details>
-  <summary><b>Donate</b></summary>
-  <div>
-    
-![Bitcoin](https://img.shields.io/badge/3EXfj12XdkpWKSkQgcGi16MwPsQtikjT6Y-black?logo=bitcoin&logoColor=white)<br>
-![Ethereum](https://img.shields.io/badge/0x9e45aa7B658C4c6561AabE451e5DD04407AAD08B-black?logo=ethereum&logoColor=lightblue)<br>
-    
-  </div>
-</details>
-
 ```json
 {
    "me": {
