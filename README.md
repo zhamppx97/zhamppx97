@@ -10,8 +10,8 @@
 <details open>
   <summary><b>GitHub Statistics</b></summary>
   <div>
-    <img height="135px" src="https://github-readme-stats.vercel.app/api?username=zhamppx97&theme=shadow_blue&show_icons=true" />
-    <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhamppx97&theme=shadow_blue&show_icons=true&layout=compact" />
+    <img height="135px" src="https://github-readme-stats.vercel.app/api?username=zhamppx97&theme=ambient_gradient&show_icons=true" />
+    <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhamppx97&theme=ambient_gradient&show_icons=true&layout=compact" />
   </div>
 </details>
 
