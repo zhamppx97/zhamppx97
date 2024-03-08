@@ -54,6 +54,7 @@
     <code><img src="https://raw.githubusercontent.com/dotnet/efcore/main/logo/ef-logo.png" width="30" height="30"></code> 
     <code><img src="https://avatars.githubusercontent.com/u/83077457?s=200&v=4" width="30" height="30"></code> 
     <code><img src="https://avatars.githubusercontent.com/u/7658037?s=200&v=4" width="30" height="30"></code> 
+    <code><img src="https://jwt.io/img/pic_logo.svg" width="30" height="30"></code> 
     <code><img src="https://avatars.githubusercontent.com/u/2331628?s=200&v=4" width="30" height="30"></code> 
     <code><img src="https://avatars.githubusercontent.com/u/5691010?s=200&v=4" width="30" height="30"></code> 
     <code><img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" width="30" height="30"></code> 
