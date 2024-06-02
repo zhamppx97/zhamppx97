@@ -63,7 +63,6 @@
     <code><img src="https://avatars.githubusercontent.com/u/2331628?s=200&v=4" width="30" height="30"></code> 
     <code><img src="https://avatars.githubusercontent.com/u/5691010?s=200&v=4" width="30" height="30"></code> 
     <code><img src="https://avatars.githubusercontent.com/u/9682013?s=200&v=4" width="30" height="30"></code> 
-    <code><img src="https://datalust.co/img/seq-logo-dark.svg" width="30" height="30"></code> 
     <code><img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" width="30" height="30"></code> 
     <code><img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="30" height="30"></code> 
     <code><img src="https://raw.githubusercontent.com/github/explore/3f5c1e7d83bce81b0872ac88d46532515bdc88ef/topics/gitlab/gitlab.png" width="30" height="30"></code> 
@@ -73,6 +72,25 @@
     <code><img src="https://avatars.githubusercontent.com/u/96669?s=200&v=4" width="30" height="30"></code> 
     <code><img src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4" width="30" height="30"></code> 
     <code><img src="https://avatars.githubusercontent.com/u/25903473?s=200&v=4" width="30" height="30"></code> 
+  </div>
+</details>
+
+<details open>
+  <summary><b>Report</b></summary>
+  <div>
+    <code><img src="https://raw.githubusercontent.com/github/explore/96943574ba0c0340ba6ea1e6f768e9abe43e34e1/topics/sql-server/sql-server.png" width="30" height="30"></code> 
+    <code><img src="https://avatars.githubusercontent.com/u/5826089?s=200&v=4" width="30" height="30"></code> 
+    <code><img src="https://datalust.co/img/seq-logo-dark.svg" width="30" height="30"></code> 
+    <code><img src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" width="30" height="30"></code> 
+    <code><img src="https://www.stimulsoft.com//templates/stimulsoft2023/images/logo-mini.svg?2.16" width="30" height="30"></code> 
+  </div>
+</details>
+
+<details open>
+  <summary><b>Cloud</b></summary>
+  <div>
+    <code><img src="https://avatars.githubusercontent.com/u/6844498?s=200&v=4" width="30" height="30"></code> 
+    <code><img src="https://avatars.githubusercontent.com/u/2810941?s=200&v=4" width="30" height="30"></code> 
   </div>
 </details>
 
