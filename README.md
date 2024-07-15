@@ -83,7 +83,6 @@
     <code><img src="https://avatars.githubusercontent.com/u/5826089?s=200&v=4" width="25" height="25"></code> 
     <code><img src="https://datalust.co/img/seq-logo-dark.svg" width="25" height="25"></code> 
     <code><img src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" width="25" height="25"></code> 
-    <code><img src="https://www.stimulsoft.com//templates/stimulsoft2023/images/logo-mini.svg?2.16" width="25" height="25"></code> 
   </div>
 </details>
 
