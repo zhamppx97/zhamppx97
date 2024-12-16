@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/zhamppx.wrp@gmail.com-c14438?logo=Gmail&logoColor=white&link=mailto:zhamppx.wrp@gmail.com)](mailto:zhamppx.wrp@gmail.com)
 <img src="https://img.shields.io/github/followers/zhamppx97.svg?label=GitHub&style=social" alt="GitHub"></a>![ViewCount](https://views.whatilearened.today/views/github/zhamppx97/zhamppx97.svg)
 
-<img src="https://github.com/zhamppx97/zhamppx97/blob/master/programming.jpg" />
+<img src="https://github.com/zhamppx97/zhamppx97/blob/master/dev.gif" width="360" height="228" />
 
 <details open>
   <summary><b>GitHub Statistics</b></summary>
