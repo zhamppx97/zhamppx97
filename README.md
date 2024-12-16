@@ -5,13 +5,13 @@
 [![Gmail Badge](https://img.shields.io/badge/zhamppx.wrp@gmail.com-c14438?logo=Gmail&logoColor=white&link=mailto:zhamppx.wrp@gmail.com)](mailto:zhamppx.wrp@gmail.com)
 <img src="https://img.shields.io/github/followers/zhamppx97.svg?label=GitHub&style=social" alt="GitHub"></a>![ViewCount](https://views.whatilearened.today/views/github/zhamppx97/zhamppx97.svg)
 
-<img src="https://github.com/zhamppx97/zhamppx97/blob/master/dev.gif" width="360" height="228" />
+<img src="https://github.com/zhamppx97/zhamppx97/blob/master/dev.gif" width="300" height="170" align="right" />
 
 <details open>
   <summary><b>GitHub Statistics</b></summary>
   <div>
-    <img height="135px" src="https://github-readme-stats.vercel.app/api?username=zhamppx97&theme=catppuccin_latte&show_icons=true" />
-    <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhamppx97&theme=catppuccin_latte&show_icons=true&layout=compact" />
+    <img height="135px" src="https://github-readme-stats.vercel.app/api?username=zhamppx97&theme=swift&show_icons=true" />
+    <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhamppx97&theme=swift&show_icons=true&layout=compact" />
   </div>
 </details>
 
@@ -70,6 +70,7 @@
     <code><img src="https://raw.githubusercontent.com/github/explore/86c1bd6b4584404882313005cbd1c213cacb16d8/topics/visual-studio/visual-studio.png" width="25" height="25"></code> 
     <code><img src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png" width="25" height="25"></code> 
     <code><img src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4" width="25" height="25"></code> 
+    <br> 
     <code><img src="https://avatars.githubusercontent.com/u/96669?s=200&v=4" width="25" height="25"></code> 
     <code><img src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4" width="25" height="25"></code> 
     <code><img src="https://avatars.githubusercontent.com/u/25903473?s=200&v=4" width="25" height="25"></code> 
