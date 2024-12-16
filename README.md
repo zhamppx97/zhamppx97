@@ -49,6 +49,7 @@
     <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" width="25" height="25"></code> 
     <code><img src="https://avatars.githubusercontent.com/u/4430336?s=200&v=4" width="25" height="25"></code> 
     <code><img src="https://avatars.githubusercontent.com/u/2452804?s=200&v=4" width="25" height="25"></code> 
+    <code><img src="https://avatars.githubusercontent.com/u/45120?s=200&v=4" width="25" height="25"></code> 
   </div>
 </details>
 
@@ -72,7 +73,8 @@
     <code><img src="https://avatars.githubusercontent.com/u/96669?s=200&v=4" width="25" height="25"></code> 
     <code><img src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4" width="25" height="25"></code> 
     <code><img src="https://avatars.githubusercontent.com/u/25903473?s=200&v=4" width="25" height="25"></code> 
-    <code><img src="https://avatars.githubusercontent.com/u/43390781?s=200&v=4" width="25" height="25"></code> 
+    <code><img src="https://avatars.githubusercontent.com/u/7195757?s=200&v=4" width="25" height="25"></code> 
+    <code><img src="https://k6.io/icons/icon-48x48.png?v=b39a6f3e0dc925c8ec4f77e0a65490e9" width="25" height="25"></code> 
   </div>
 </details>
 
