@@ -58,6 +58,7 @@
   <div>
     <code><img src="https://raw.githubusercontent.com/dotnet/efcore/main/logo/ef-logo.png" width="25" height="25"></code> 
     <code><img src="https://avatars.githubusercontent.com/u/83077457?s=200&v=4" width="25" height="25"></code> 
+    <code><img src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png" width="25" height="25"></code> 
     <code><img src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" width="25" height="25"></code> 
     <code><img src="https://avatars.githubusercontent.com/u/7658037?s=200&v=4" width="25" height="25"></code> 
     <code><img src="https://jwt.io/img/pic_logo.svg" width="25" height="25"></code> 
@@ -101,7 +102,6 @@
   <summary><b>Buddy</b></summary>
   <div>
     <code><img src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" width="25" height="25"></code> 
-    <code><img src="https://claude.ai/images/claude_app_icon.png" width="25" height="25"></code> 
     <code><img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" width="25" height="25"></code> 
   </div>
 </details>
